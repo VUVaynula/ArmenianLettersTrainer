@@ -624,4 +624,3 @@ fun armenianLetters(): List<Letter> {
         Letter("f_lower", "ֆ", "ф", "o_f")
     )
 }
-}
